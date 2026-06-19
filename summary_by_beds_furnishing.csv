@@ -1,0 +1,140 @@
+City,Beds,Furnishing,Total_Listings,Avg_Rent
+Abu Dhabi,0,Furnished,389,47978.0
+Abu Dhabi,0,Unfurnished,1857,32282.0
+Abu Dhabi,1,Furnished,559,93403.0
+Abu Dhabi,1,Unfurnished,4053,59689.0
+Abu Dhabi,2,Furnished,491,141846.0
+Abu Dhabi,2,Unfurnished,6024,91520.0
+Abu Dhabi,3,Furnished,149,198948.0
+Abu Dhabi,3,Unfurnished,4904,129331.0
+Abu Dhabi,4,Furnished,52,386248.0
+Abu Dhabi,4,Unfurnished,2164,170824.0
+Abu Dhabi,5,Furnished,15,376533.0
+Abu Dhabi,5,Unfurnished,1506,209008.0
+Abu Dhabi,6,Furnished,8,455000.0
+Abu Dhabi,6,Unfurnished,605,213697.0
+Abu Dhabi,7,Furnished,2,305000.0
+Abu Dhabi,7,Unfurnished,313,338703.0
+Abu Dhabi,8,Furnished,1,180000.0
+Abu Dhabi,8,Unfurnished,106,237669.0
+Abu Dhabi,9,Furnished,1,250000.0
+Abu Dhabi,9,Unfurnished,43,300465.0
+Abu Dhabi,10,Furnished,1,400000.0
+Abu Dhabi,10,Unfurnished,31,380968.0
+Abu Dhabi,11,Furnished,1,650000.0
+Abu Dhabi,11,Unfurnished,49,605408.0
+Ajman,0,Furnished,6,17500.0
+Ajman,0,Unfurnished,239,15169.0
+Ajman,1,Furnished,24,34546.0
+Ajman,1,Unfurnished,1018,25130.0
+Ajman,2,Furnished,30,64653.0
+Ajman,2,Unfurnished,1134,45652.0
+Ajman,3,Furnished,11,77272.0
+Ajman,3,Unfurnished,412,62027.0
+Ajman,4,Furnished,19,95684.0
+Ajman,4,Unfurnished,265,78849.0
+Ajman,5,Furnished,57,142193.0
+Ajman,5,Unfurnished,1040,106683.0
+Ajman,6,Furnished,15,135333.0
+Ajman,6,Unfurnished,293,125638.0
+Ajman,7,Furnished,11,155000.0
+Ajman,7,Unfurnished,81,129358.0
+Ajman,8,Furnished,2,155000.0
+Ajman,8,Unfurnished,11,144091.0
+Ajman,9,Unfurnished,5,149000.0
+Ajman,10,Unfurnished,8,350000.0
+Ajman,11,Furnished,3,386667.0
+Ajman,11,Unfurnished,20,569320.0
+Al Ain,0,Unfurnished,4,25000.0
+Al Ain,1,Unfurnished,87,29471.0
+Al Ain,2,Unfurnished,358,35796.0
+Al Ain,3,Unfurnished,245,54608.0
+Al Ain,4,Unfurnished,111,85748.0
+Al Ain,5,Furnished,1,125000.0
+Al Ain,5,Unfurnished,119,108739.0
+Al Ain,6,Unfurnished,66,135227.0
+Al Ain,7,Unfurnished,28,134643.0
+Al Ain,8,Unfurnished,14,145714.0
+Al Ain,9,Unfurnished,3,123333.0
+Al Ain,10,Unfurnished,2,150000.0
+Al Ain,11,Unfurnished,2,190000.0
+Dubai,0,Furnished,2265,67798.0
+Dubai,0,Unfurnished,1921,49402.0
+Dubai,1,Furnished,4826,127915.0
+Dubai,1,Unfurnished,5639,93769.0
+Dubai,2,Furnished,3796,228948.0
+Dubai,2,Unfurnished,5158,166277.0
+Dubai,3,Furnished,1587,355885.0
+Dubai,3,Unfurnished,4332,225502.0
+Dubai,4,Furnished,458,696265.0
+Dubai,4,Unfurnished,2505,336441.0
+Dubai,5,Furnished,216,1012361.0
+Dubai,5,Unfurnished,1061,549839.0
+Dubai,6,Furnished,71,1677169.0
+Dubai,6,Unfurnished,278,1017061.0
+Dubai,7,Furnished,22,2425909.0
+Dubai,7,Unfurnished,79,1135430.0
+Dubai,8,Furnished,2,6000000.0
+Dubai,8,Unfurnished,8,1185624.0
+Dubai,9,Furnished,2,1175000.0
+Dubai,9,Unfurnished,5,730000.0
+Dubai,10,Furnished,3,9483333.0
+Dubai,10,Unfurnished,4,631250.0
+Dubai,11,Unfurnished,11,7015455.0
+Dubai,12,Unfurnished,1,600000.0
+Fujairah,1,Furnished,1,35000.0
+Fujairah,1,Unfurnished,3,23333.0
+Fujairah,2,Unfurnished,9,39889.0
+Fujairah,3,Furnished,1,155000.0
+Fujairah,3,Unfurnished,5,64600.0
+Fujairah,4,Unfurnished,8,130625.0
+Ras Al Khaimah,0,Furnished,79,35315.0
+Ras Al Khaimah,0,Unfurnished,63,22035.0
+Ras Al Khaimah,1,Furnished,61,54149.0
+Ras Al Khaimah,1,Unfurnished,89,33880.0
+Ras Al Khaimah,2,Furnished,88,76865.0
+Ras Al Khaimah,2,Unfurnished,121,53155.0
+Ras Al Khaimah,3,Furnished,79,140531.0
+Ras Al Khaimah,3,Unfurnished,121,82325.0
+Ras Al Khaimah,4,Furnished,10,164200.0
+Ras Al Khaimah,4,Unfurnished,43,113174.0
+Ras Al Khaimah,5,Furnished,8,253125.0
+Ras Al Khaimah,5,Unfurnished,23,207173.0
+Ras Al Khaimah,6,Furnished,1,95000.0
+Ras Al Khaimah,6,Unfurnished,15,142000.0
+Ras Al Khaimah,7,Furnished,3,120000.0
+Ras Al Khaimah,7,Unfurnished,2,150000.0
+Ras Al Khaimah,8,Furnished,2,270000.0
+Ras Al Khaimah,8,Unfurnished,3,246667.0
+Ras Al Khaimah,11,Unfurnished,5,210600.0
+Sharjah,0,Furnished,68,35426.0
+Sharjah,0,Unfurnished,1511,21878.0
+Sharjah,1,Furnished,103,52624.0
+Sharjah,1,Unfurnished,3507,34761.0
+Sharjah,2,Furnished,23,82723.0
+Sharjah,2,Unfurnished,2577,45744.0
+Sharjah,3,Furnished,30,111200.0
+Sharjah,3,Unfurnished,1058,77965.0
+Sharjah,4,Furnished,9,135000.0
+Sharjah,4,Unfurnished,313,121981.0
+Sharjah,5,Furnished,5,143000.0
+Sharjah,5,Unfurnished,219,141714.0
+Sharjah,6,Unfurnished,45,140555.0
+Sharjah,7,Furnished,6,233333.0
+Sharjah,7,Unfurnished,12,149583.0
+Sharjah,8,Furnished,3,210000.0
+Sharjah,8,Unfurnished,15,198333.0
+Sharjah,9,Unfurnished,4,125000.0
+Sharjah,10,Unfurnished,3,283333.0
+Sharjah,11,Furnished,1,600000.0
+Sharjah,11,Unfurnished,4,258750.0
+Umm Al Quwain,0,Furnished,2,22000.0
+Umm Al Quwain,0,Unfurnished,12,15083.0
+Umm Al Quwain,1,Furnished,1,40000.0
+Umm Al Quwain,1,Unfurnished,14,22714.0
+Umm Al Quwain,2,Unfurnished,12,35333.0
+Umm Al Quwain,3,Unfurnished,11,62545.0
+Umm Al Quwain,4,Unfurnished,7,77143.0
+Umm Al Quwain,5,Unfurnished,2,87500.0
+Umm Al Quwain,6,Unfurnished,3,126667.0
+Umm Al Quwain,8,Unfurnished,1,150000.0

@@ -1,0 +1,48 @@
+City,Type,Total_Listings,Avg_Rent,Median_Rent
+Abu Dhabi,Apartment,17676,87953.0,75000.0
+Abu Dhabi,Hotel Apartment,9,112222.0,90000.0
+Abu Dhabi,Penthouse,82,203049.0,185000.0
+Abu Dhabi,Residential Building,8,2019375.0,1800000.0
+Abu Dhabi,Residential Floor,1,60000.0,60000.0
+Abu Dhabi,Townhouse,887,188861.0,180000.0
+Abu Dhabi,Villa,4596,200469.0,165000.0
+Abu Dhabi,Villa Compound,65,168608.0,135000.0
+Ajman,Apartment,2817,33471.0,30000.0
+Ajman,Penthouse,1,78000.0,78000.0
+Ajman,Residential Building,24,992350.0,633000.0
+Ajman,Residential Floor,1,55000.0,55000.0
+Ajman,Residential Plot,2,105250.0,105250.0
+Ajman,Townhouse,9,101222.0,90000.0
+Ajman,Villa,1850,109015.0,100000.0
+Al Ain,Apartment,657,39874.0,38000.0
+Al Ain,Townhouse,3,78333.0,60000.0
+Al Ain,Villa,363,107942.0,105000.0
+Al Ain,Villa Compound,17,94765.0,100000.0
+Dubai,Apartment,26155,158712.0,120000.0
+Dubai,Hotel Apartment,450,230240.0,177000.0
+Dubai,Penthouse,153,710802.0,500000.0
+Dubai,Residential Building,11,7780000.0,4200000.0
+Dubai,Residential Floor,10,1679692.0,1829775.0
+Dubai,Residential Plot,2,725000.0,725000.0
+Dubai,Townhouse,2358,198402.0,175000.0
+Dubai,Villa,5094,464611.0,300000.0
+Dubai,Villa Compound,17,349941.0,370000.0
+Fujairah,Apartment,16,37312.0,34500.0
+Fujairah,Villa,11,126364.0,135000.0
+Ras Al Khaimah,Apartment,493,46682.0,42000.0
+Ras Al Khaimah,Hotel Apartment,6,55750.0,53500.0
+Ras Al Khaimah,Penthouse,7,62971.0,48360.0
+Ras Al Khaimah,Residential Plot,1,47400.0,47400.0
+Ras Al Khaimah,Townhouse,87,111961.0,110000.0
+Ras Al Khaimah,Villa,217,135127.0,110000.0
+Ras Al Khaimah,Villa Compound,5,74400.0,55000.0
+Sharjah,Apartment,8679,40027.0,35990.0
+Sharjah,Penthouse,27,147610.0,150000.0
+Sharjah,Residential Building,1,565000.0,565000.0
+Sharjah,Residential Plot,1,90000.0,90000.0
+Sharjah,Townhouse,75,113340.0,115000.0
+Sharjah,Villa,730,129995.0,125000.0
+Sharjah,Villa Compound,3,75000.0,75000.0
+Umm Al Quwain,Apartment,41,25512.0,22000.0
+Umm Al Quwain,Townhouse,2,112500.0,112500.0
+Umm Al Quwain,Villa,22,75864.0,50000.0
